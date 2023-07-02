@@ -1,9 +1,13 @@
 # AngularMaterialDemo
-This project contains full crud operation using http services. I have used angular material to design ui. 
-## How to use rest apis?
-I have created apis with json-server. 
-In a seperate integrated terminal run `npm run api` command to start a api server.
-## Run angular dev server.
-Run this command in a seperate terminal `ng s -o'
 
-Enjoy 😁
+Bu proje http servislerini kullanarak tam crud işlemi içermektedir. Ui'yi tasarlamak için açısal malzeme kullandım.
+
+## Dinlenme apis nasıl kullanılır?
+
+Json-server ile apis oluşturdum.
+
+Ayrı bir entegre terminalde, bir api sunucusu başlatmak için `npm run api` komutunu çalıştırın.
+
+## Açısal geliştirme sunucusunu çalıştırın.
+
+Bu komutu ayrı bir terminalde çalıştırın `ng s -o'
